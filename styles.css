@@ -8,6 +8,7 @@ body {
     text-align: center;
 }
 
+/* Encabezado */
 header {
     background: #5c0a5c;
     color: white;
@@ -30,6 +31,7 @@ nav a {
     font-weight: bold;
 }
 
+/* Foto o avatar */
 .foto-perfil {
     width: 150px;
     height: 150px;
@@ -37,6 +39,7 @@ nav a {
     margin-top: 15px;
 }
 
+/* proyectos */
 .galeria {
     display: flex;
     justify-content: center;
@@ -86,7 +89,7 @@ nav a {
             display: inline-block;
         }
 
-
+/* COntactame formulario */
 form {
     display: flex;
     flex-direction: column;
